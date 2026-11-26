@@ -1,1 +1,6 @@
-{"version":"1.55.0","notes":"1.55.0: настоящий выход вместо названия профиля, фактический IP/страна/провайдер, проверка выхода в split-режиме, исправления гонки статуса и портов","sha256":"0adf52a5187bae8e6738b17e0353ceecf95800b109458538fd47e831e25662dd","url":"https://github.com/Killer4Reals/k4r-neko-vpn-releases/releases/download/v1.55.0/K4R.Neko.VPN_1.55.0_x64-setup.exe"}
+{
+  "version": "1.56.0",
+  "notes": "1.56.0: честный паспорт без выдуманной оценки, статус по фактическому охвату, автоматический failover при падении движка и супервизорном перезапуске, скрытая ссылка подписки, сырой журнал без ложных обещаний, холодный глобус и статичная Главная",
+  "url": "https://github.com/Killer4Reals/k4r-neko-vpn-releases/releases/download/v1.56.0/K4R.Neko.VPN_1.56.0_x64-setup.exe",
+  "sha256": "5774e8c565ee43689f48aeac95540744d6ddb9c604a518d22fbe2a9f22cbdda8"
+}
