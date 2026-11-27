@@ -1,6 +1,6 @@
 {
-  "version": "1.57.2",
-  "notes": "1.57.2: выбор узла не двигается, пока идёт подключение или смена, — подпись больше не расходится с трафиком; установщик не подписан — сверяйте SHA-256",
-  "url": "https://github.com/Killer4Reals/k4r-neko-vpn-releases/releases/download/v1.57.2/K4R.Neko.VPN_1.57.2_x64-setup.exe",
-  "sha256": "b8879113b0d6c37d5f3b5087b767d3a9755e85a7d958e1d5747f56923d9cf2fb"
+  "version": "1.57.3",
+  "notes": "1.57.3: при неудачной смене узел и выбор откатываются, авто-смена больше не переподключает старый узел, смена из трея обновляет окно; установщик не подписан — сверяйте SHA-256",
+  "url": "https://github.com/Killer4Reals/k4r-neko-vpn-releases/releases/download/v1.57.3/K4R.Neko.VPN_1.57.3_x64-setup.exe",
+  "sha256": "dc64cf9cbfa9a07b25d02afba5daf025a1eecf7ad8a2a74baee54b05cad50ae0"
 }
